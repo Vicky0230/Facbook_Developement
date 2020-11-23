@@ -9,3 +9,7 @@ Author: Vicky
 3.C
 
 4.D
+
+5.E&F
+
+6.G&H
